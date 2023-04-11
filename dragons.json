@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Red Dragon",
+    "hitPoints": 178,
+    "attackValue": 17,
+    "description": "The Red Dragon is a powerful and aggressive creature, known for its fiery breath and its love of treasure.",
+    "alignment": "Chaotic Evil",
+    "size": "Large",
+    "image": "https://picsum.photos/id/231/400/300"
+  },
+  {
+    "name": "Blue Dragon",
+    "hitPoints": 225,
+    "attackValue": 16,
+    "description": "The Blue Dragon is a cunning and cruel creature, known for its lightning breath and its love of treasure.",
+    "alignment": "Lawful Evil",
+    "size": "Huge",
+    "image": "https://picsum.photos/id/232/400/300"
+  },
+  {
+    "name": "Green Dragon",
+    "hitPoints": 207,
+    "attackValue": 19,
+    "description": "The Green Dragon is a deceptive and cunning creature, using its natural camouflage to ambush its prey and its poison breath to disable opponents.",
+    "alignment": "Lawful Evil",
+    "size": "Large",
+    "image": "https://picsum.photos/id/233/400/300"
+  },
+  {
+    "name": "White Dragon",
+    "hitPoints": 200,
+    "attackValue": 16,
+    "description": "The White Dragon is a savage and cruel creature, known for its icy breath and its sharp claws.",
+    "alignment": "Chaotic Evil",
+    "size": "Large",
+    "image": "https://picsum.photos/id/234/400/300"
+  },
+  {
+    "name": "Black Dragon",
+    "hitPoints": 195,
+    "attackValue": 19,
+    "description": "The Black Dragon is a cunning and cruel creature, known for its acid breath and its love of treasure.",
+    "alignment": "Chaotic Evil",
+    "size": "Large",
+    "image": "https://picsum.photos/id/235/400/300"
+  },
+  {
+    "name": "Copper Dragon",
+    "hitPoints": 184,
+    "attackValue": 14,
+    "description": "The Copper Dragon is a mischievous and playful creature, known for its acid breath and its love of pranks.",
+    "alignment": "Chaotic Good",
+    "size": "Huge",
+    "image": "https://picsum.photos/id/236/400/300"
+  },
+  {
+    "name": "Bronze Dragon",
+    "hitPoints": 212,
+    "attackValue": 18,
+    "description": "The Bronze Dragon is a noble and honorable creature, known for its lightning breath and its love of justice.",
+    "alignment": "Lawful Good",
+    "size": "Large",
+    "image": "https://picsum.photos/id/238/400/300"
+  },
+  {
+    "name": "Gold Dragon",
+    "hitPoints": 303,
+    "attackValue": 21,
+    "description": "The Gold Dragon is a wise and powerful creature, known for its healing breath and its love of goodness and justice.",
+    "alignment": "Lawful Good",
+    "size": "Huge",
+    "image": "https://picsum.photos/id/239/400/300"
+  },
+  {
+    "name": "Silver Dragon",
+    "hitPoints": 212,
+    "attackValue": 18,
+    "description": "The Silver Dragon is a majestic and honorable creature, known for its cold breath and its love of knowledge.",
+    "alignment": "Lawful Good",
+    "size": "Large",
+    "image": "https://picsum.photos/id/240/400/300"
+  },
+  {
+    "name": "Brass Dragon",
+    "hitPoints": 184,
+    "attackValue": 14,
+    "description": "The Brass Dragon is a talkative and friendly creature, known for its fire breath and its love of conversation.",
+    "alignment": "Chaotic Good",
+    "size": "Large",
+    "image": "https://picsum.photos/id/241/400/300"
+  },
+  {
+    "name": "Crystal Dragon",
+    "hitPoints": 195,
+    "attackValue": 19,
+    "description": "The Crystal Dragon is a beautiful and mysterious creature, known for its psychic breath and its love of crystals.",
+    "alignment": "Chaotic Neutral",
+    "size": "Huge",
+    "image": "https://picsum.photos/id/242/400/300"
+  },
+  {
+    "name": "Mercury Dragon",
+    "hitPoints": 200,
+    "attackValue": 16,
+    "description": "The Mercury Dragon is a quick and agile creature, known for its mercury breath and its love of puzzles.",
+    "alignment": "Chaotic Neutral",
+    "size": "Large",
+    "image": "https://picsum.photos/id/243/400/300"
+  },
+  {
+    "name": "Platinum Dragon",
+    "hitPoints": 303,
+    "attackValue": 21,
+    "description": "The Platinum Dragon is a powerful and wise creature, known for its holy breath and its love of order and justice.",
+    "alignment": "Lawful Good",
+    "size": "Huge",
+    "image": "https://picsum.photos/id/244/400/300"
+  },
+  {
+    "name": "Amber Dragon",
+    "hitPoints": 195,
+    "attackValue": 17,
+    "description": "The Amber Dragon is a resilient and adaptive creature, known for its amber breath and its love of change.",
+    "alignment": "Chaotic Neutral",
+    "size": "Large",
+    "image": "https://picsum.photos/id/245/400/300"
+  },
+  {
+    "name": "Obsidian Dragon",
+    "hitPoints": 212,
+    "attackValue": 19,
+    "description": "The Obsidian Dragon is a fierce and unyielding creature, known for its obsidian breath and its love of conquest.",
+    "alignment": "Lawful Evil",
+    "size": "Large",
+    "image": "https://picsum.photos/id/246/400/300"
+  },
+  {
+    "name": "Sapphire Dragon",
+    "hitPoints": 225,
+    "attackValue": 18,
+    "description": "The Sapphire Dragon is a graceful and elegant creature, known for its sapphire breath and its love of beauty.",
+    "alignment": "Neutral Good",
+    "size": "Huge",
+    "image": "https://picsum.photos/id/247/400/300"
+  },
+  {
+    "name": "Bob the Dragon",
+    "hitPoints": 100,
+    "attackValue": 5,
+    "description": "Bob may not be the strongest dragon, but he's got a heart of gold and a fierce sense of loyalty.",
+    "alignment": "Neutral Good",
+    "size": "Medium",
+    "image": "https://picsum.photos/id/248/400/300"
+  },
+  {
+    "name": "Drakonius Maximus",
+    "hitPoints": 500,
+    "attackValue": 50,
+    "description": "Drakonius Maximus is a colossal dragon with a fierce temper and a taste for destruction.",
+    "alignment": "Chaotic Evil",
+    "size": "Gargantuan",
+    "image": "https://picsum.photos/id/249/400/300"
+  },
+  {
+    "name": "Fluffy the Destroyer",
+    "hitPoints": 200,
+    "attackValue": 20,
+    "description": "Despite the cute name, Fluffy is a ferocious dragon with an insatiable hunger for treasure.",
+    "alignment": "Chaotic Neutral",
+    "size": "Large",
+    "image": "https://picsum.photos/id/250/400/300"
+  },
+  {
+    "name": "Sizzlepuff",
+    "hitPoints": 150,
+    "attackValue": 10,
+    "description": "Sizzlepuff is a tiny dragon with a fiery personality and a taste for adventure.",
+    "alignment": "Chaotic Good",
+    "size": "Small",
+    "image": "https://picsum.photos/id/251/400/300"
+  },
+  {
+    "name": "Sir Reginald Fizzlebottom",
+    "hitPoints": 300,
+    "attackValue": 25,
+    "description": "Sir Reginald is a noble dragon with impeccable manners and a refined taste in hoards.",
+    "alignment": "Lawful Good",
+    "size": "Large",
+    "image": "https://picsum.photos/id/252/400/300"
+  },
+  {
+    "name": "Balthazar the Fierce",
+    "hitPoints": 400,
+    "attackValue": 30,
+    "description": "Balthazar is a dragon with a legendary reputation for ferocity and an insatiable thirst for battle.",
+    "alignment": "Chaotic Neutral",
+    "size": "Huge",
+    "image": "https://picsum.photos/id/253/400/300"
+  },
+  {
+    "name": "Glimmerwing",
+    "hitPoints": 250,
+    "attackValue": 15,
+    "description": "Glimmerwing is a beautiful dragon with shimmering scales and a gentle nature.",
+    "alignment": "Neutral Good",
+    "size": "Large",
+    "image": "https://picsum.photos/id/254/400/300"
+  },
+  {
+    "name": "Baron Von Firebreath",
+    "hitPoints": 350,
+    "attackValue": 28,
+    "description": "Baron Von Firebreath is a dragon with a taste for the finer things in life, and a penchant for setting things on fire.",
+    "alignment": "Chaotic Neutral",
+    "size": "Huge",
+    "image": "https://picsum.photos/id/255/400/300"
+  }
+]
